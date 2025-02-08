@@ -55,6 +55,4 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="https://i.imgur.com/i7kHNNu.jpg"  />
-
 ###
